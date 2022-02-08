@@ -1,0 +1,4 @@
+name = "ShowMe"
+uuid = "2781fa4b-e3f3-48f1-bce7-19382a54c554"
+authors = ["Cornelius-G <cornelius.grunwald@tu-dortmund.de>"]
+version = "0.1.0"
